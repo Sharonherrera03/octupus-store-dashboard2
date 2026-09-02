@@ -1,7 +1,7 @@
 # octupus-store-dashboard2
-Dashboard mensile store performance — Excel + PowerPoint collegati dinamicamente (progetto di esercitazione, *dati fittizi*)
+Dashboard mensile store performance - Excel + PowerPoint collegati dinamicamente (progetto di esercitazione, *dati fittizi*)
 
-Octupus — Dashboard Store Performance
+Octupus - Dashboard Store Performance
 Dashboard mensile per il monitoraggio delle performance di un punto vendita retail: 
 vendite, budget, confronto anno su anno e KPI individuali del team, aggiornata automaticamente da un unico file Excel.
 
